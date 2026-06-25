@@ -1,28 +1,13 @@
-# Portfolio Dr Ibrahima Doukouré
+# Portfolio Dr Ibrahima Doukouré — Version finale premium FR/EN
 
-Package GitHub Pages final.
+Contenu à téléverser à la racine du dépôt GitHub Pages :
 
-## Contenu
-- `index.html` : portfolio premium responsive.
-- `images/` : photos professionnelles optimisées.
-- `certifications/pdf/` : PDF originaux fournis, renommés proprement.
-- `certifications/images/` : images WebP générées depuis les PDF.
+- `index.html` : portfolio premium bilingue français/anglais.
+- `images/` : photos professionnelles.
+- `certifications/images/` : aperçus WebP des certificats.
 - `certifications/thumbs/` : miniatures WebP.
-- `cv/` : CV PDF fournis.
-- `data/` : résumé et métadonnées de contrôle.
+- `certifications/pdf/` : PDF originaux pour vérification.
+- `cv/` : CV ciblés.
+- `data/`, `assets/`, `manifest.json`.
 
-## Statistiques
-- Documents certifiants uniques intégrés : 72
-- Images générées depuis les PDF : 75
-- Doublons PDF exacts ignorés : 1
-
-## Déploiement GitHub Pages
-1. Décompresser le ZIP.
-2. Ouvrir le dossier décompressé.
-3. Sélectionner tout le contenu : `index.html`, `images`, `certifications`, `cv`, `data`, `assets`, `README.md`, `manifest.json`.
-4. Envoyer tout dans le dépôt `ibrahimadoukoure.github.io`.
-5. Dans GitHub : Settings > Pages > Deploy from a branch > main > /root > Save.
-6. Ouvrir : https://ibrahimadoukoure.github.io
-
-## Note
-Les certificats affichés sont issus des PDF fournis. Aucun certificat n'a été généré ou inventé. Les images sont de simples conversions visuelles des documents PDF.
+Important : ne pas renommer les dossiers. GitHub Pages est sensible à la casse.

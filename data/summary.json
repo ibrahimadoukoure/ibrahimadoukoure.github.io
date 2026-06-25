@@ -1,0 +1,39 @@
+{
+  "certifications_count": 72,
+  "pdf_count": 72,
+  "image_pages_count": 75,
+  "duplicates_ignored": [
+    [
+      "Ibrahima Doukoure-StudBlockChainCertificate (7).pdf",
+      "Ibrahima Doukoure Certificat d'etude supéreure.pdf"
+    ]
+  ],
+  "failed": [],
+  "photos": [
+    "portrait-officiel.webp",
+    "photo-blouse-couloir.webp",
+    "photo-blouse-portrait.webp",
+    "photo-bureau-cnam-large.webp",
+    "photo-bureau-cnam.webp",
+    "photo-bureau-clinique.webp",
+    "photo-bureau-costume.webp"
+  ],
+  "cv": [
+    {
+      "label": "CV Santé, HSE & Risques professionnels",
+      "path": "cv/cv_sst_hse_risques_professionnels.pdf"
+    },
+    {
+      "label": "CV QHSE / HSE & Risques professionnels",
+      "path": "cv/cv_qhse_hse_risques_professionnels.pdf"
+    },
+    {
+      "label": "CV Santé publique & veille sanitaire",
+      "path": "cv/cv_sante_publique_veille_sanitaire.pdf"
+    },
+    {
+      "label": "CV Clinicien / Médecin généraliste",
+      "path": "cv/cv_clinicien_medecin_generaliste.pdf"
+    }
+  ]
+}

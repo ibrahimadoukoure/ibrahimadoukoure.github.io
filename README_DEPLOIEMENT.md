@@ -1,9 +1,21 @@
-# Déploiement
+# Portfolio Dr Ibrahima DOUKOURE
 
-Transférer tout le contenu de ce dossier à la racine du site en conservant l'arborescence `assets/`.
+Package statique prêt pour GitHub Pages ou Netlify.
 
-Fichiers d'entrée :
-- `index.html`
-- `certifications.html`
+## Publication GitHub
+1. Décompresser l'archive.
+2. Copier tout le contenu du dossier à la racine du dépôt.
+3. Commit puis push.
+4. Vérifier que `index.html` est bien à la racine.
+5. GitHub Pages peut servir directement la branche configurée.
 
-Les CV sont dans `assets/cv/` et les documents de certification dans `assets/certificates/`.
+## Structure
+- `index.html` : portfolio principal
+- `certifications.html` : tous les documents vérifiables
+- `assets/img/` : photos professionnelles
+- `assets/documents/` : certificats et attestations PDF
+- `assets/documents/thumbs/` : aperçus web
+- `assets/cv/` : CV ciblés
+- `assets/css/` et `assets/js/` : style et interactions
+
+Le numéro de CNI figurant sur le diplôme TECH de Médecine et Santé au Travail est masqué dans la copie publique du portfolio.
